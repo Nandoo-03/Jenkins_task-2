@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello guys!"
-echo "This is Nandan Kasilingam.!!!"
+ech "This is Nandan Kasilingam.!!!"
